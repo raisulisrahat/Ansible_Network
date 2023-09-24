@@ -1,0 +1,6 @@
+[mikrotik]
+
+ansible_user=admin
+ansible_ssh_pass=1234
+ansible_network_os:routeros
+

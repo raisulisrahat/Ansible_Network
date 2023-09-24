@@ -1,0 +1,11 @@
+---
+- hosts: server #Centos #Ubuntu
+  roles: 
+    #- Docker
+    #- Grafana
+    #- Graylog
+    #- Nagios
+    #- Wazuh
+    #- Zabbix
+# Monitor_agent List
+    - Grafana-agent
