@@ -1,7 +1,9 @@
 Role Name
 =========
 
-A brief description of the role goes here.
+List:
+    Cisco
+    Mikrotik
 
 Requirements
 ------------
